@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ko812
 - 👀 I’m interested in graphics design
-- 🌱 I’m currently learning to do business.
-- 💞️ I’m looking to collaborate on developing a web app.
+- 🌱 I’m currently expanding the capacity of my latest web app, Point Draw Web App, https://www.point-draw.com
+- 💞️ I’m looking to collaborate on developing the Point Draw web app.
 - 📫 How to reach me appDeveloper@initkopico.com
 
 <!---
